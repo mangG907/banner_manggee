@@ -18,3 +18,7 @@ show-banner = 'banner_manggee.banner:show'
 
 [tool.pdm]
 distribution = true
+
+[project.urls]
+Homepage = "https://github.com/mangG907/banner_manggee"
+Issues = "https://github.com/mangG907/banner_manggee/issues"
