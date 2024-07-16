@@ -131,26 +131,7 @@ The Python port was done by Christopher Jones <cjones@insub.org> (http://gruntle
 It is currently maintained by Peter Waller (p@pwaller.net, github:pwaller)
 
 The toilet fonts (.tlf) were imported from toilet 0.3-1, by Sam Hocevar (sam@zoy.org).
-
-## **Thanks**
-
-Lots of people have helped make pyfiglet what it is but I particularly want to
-call out.
-
-github:stefanor for various bug fixes and improvements and the debian packaging.
-github:peterbrittain for helping to close lots of issues.
-
-
-## **License**
-The MIT License (MIT)
-Copyright © 2007-2023
 ```
-Christopher Jones <cjones@insub.org>
-Stefano Rivera <stefano@rivera.za.net>
-Peter Waller <p@pwaller.net>
-And various contributors (see git history).
-```
-(see LICENSE for full details)
 
 # Packaging status
 
