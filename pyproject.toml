@@ -13,7 +13,8 @@ readme = "README.md"
 license = {text = "MIT"}
 
 [project.scripts]
-show-banner = 'banner_manggee.banner:show'
+manggee-banner = 'banner_manggee.banner:show'
+manggee-pic = 'banner_manggee.banner:pic'
 
 
 [tool.pdm]
